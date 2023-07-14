@@ -1,0 +1,8 @@
+Hardhat V/S Truffle
+- Hardhat has faster migration process 
+- Less gass consumption 
+- Debugging is easier 
+
+How to deploy smart contract to Test Net 
+- Till now we were deploying the contract on hardhat internal network. Now we will deploy it to a test network 
+
